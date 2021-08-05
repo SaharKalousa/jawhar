@@ -1,0 +1,14 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="178" height="67" viewBox="0 0 178 67">
+  <g id="Group_333" data-name="Group 333" transform="translate(-32 -287)">
+    <text id="جوهر" transform="translate(87 341)" fill="#fff" font-size="50" font-family="SegoeUI-Bold, Segoe UI" font-weight="700"><tspan x="-54.272" y="0">جوهر</tspan></text>
+    <g id="diamond" transform="translate(164 303)">
+      <path id="Path_633" data-name="Path 633" d="M27.231,16.247,14.625,8.969V0L35,11.763Zm0,0" transform="translate(9.509 0)" fill="#fff"/>
+      <path id="Path_634" data-name="Path 634" d="M0,160.535V145.979l7.724-4.46v23.475Zm0,0" transform="translate(38.276 -128.211)" fill="#fff"/>
+      <path id="Path_635" data-name="Path 635" d="M105.757,120.624l12.2-6.71,12.2,6.71v13.42l-12.2,6.71-12.2-6.71Zm0,0" transform="translate(-94.96 -102.284)" fill="#fff"/>
+      <path id="Path_636" data-name="Path 636" d="M264.65,0V8.969l-12.605,7.278-7.767-4.485Zm0,0" transform="translate(-242.784)" fill="#fff"/>
+      <path id="Path_637" data-name="Path 637" d="M390.521,145.978v14.556l-7.724,4.46V141.519Zm0,0" transform="translate(-382.797 -128.21)" fill="#fff"/>
+      <path id="Path_638" data-name="Path 638" d="M15.473,361.118l12.606-7.278,7.681,4.435L15.473,369.987Zm0,0" transform="translate(8.661 -319.987)" fill="#fff"/>
+      <path id="Path_639" data-name="Path 639" d="M251.958,353.84l12.605,7.278v8.869l-20.287-11.712Zm0,0" transform="translate(-242.698 -319.987)" fill="#fff"/>
+    </g>
+  </g>
+</svg>
